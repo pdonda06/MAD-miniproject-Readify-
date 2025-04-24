@@ -1,6 +1,6 @@
 # Readify
 
-Readify is a modern Flutter application that allows users to search, browse, and read books in various formats (EPUB, PDF, HTML) with a beautiful and intuitive interface. It integrates Firebase for authentication and cloud storage, and provides a seamless reading experience across devices.
+Readify is a modern Flutter application that allows users to read books with a beautiful and intuitive interface. It integrates Firebase for authentication and provides a seamless reading experience across devices.
 
 ## Features
 
@@ -16,8 +16,17 @@ Readify is a modern Flutter application that allows users to search, browse, and
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/bfcea0ad-d979-4ff9-8e2d-d6a1949730f7)
+![image](https://github.com/user-attachments/assets/33638861-59c5-471f-b08b-f6d50eb3afce)
+![image](https://github.com/user-attachments/assets/f6f1d53c-e60f-44b2-ba1a-12bf9b01a6bc)
+![image](https://github.com/user-attachments/assets/0e705493-42a1-4fb7-b33b-cf91eb736d92)
+![image](https://github.com/user-attachments/assets/875c655f-ad00-4293-bd57-ffcf27e95416)
+![image](https://github.com/user-attachments/assets/daf16948-6732-43cd-8e91-0bac7593d92d)
+![image](https://github.com/user-attachments/assets/9a9c9275-a038-4358-a169-32cce99cea48)
+![image](https://github.com/user-attachments/assets/b00db1b6-8e3f-4f23-89b4-98b1c18f02ed)
+![image](https://github.com/user-attachments/assets/619fdfae-4ff2-468a-be94-afdafae092c8)
+![image](https://github.com/user-attachments/assets/b9e86b39-9cdc-44d8-85ae-eee987eedc66)
+![image](https://github.com/user-attachments/assets/3cfec82b-a018-4b67-b2a0-d2b83d47b08c)
 
-*Add screenshots of your app here (optional)*
 
 ## Getting Started
 
