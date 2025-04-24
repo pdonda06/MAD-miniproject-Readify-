@@ -15,6 +15,7 @@ Readify is a modern Flutter application that allows users to search, browse, and
 - **Modern UI**: Beautiful design with Google Fonts and smooth animations.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/bfcea0ad-d979-4ff9-8e2d-d6a1949730f7)
 
 *Add screenshots of your app here (optional)*
 
